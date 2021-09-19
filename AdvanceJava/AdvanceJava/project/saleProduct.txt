@@ -1,0 +1,4 @@
+Product code: 25
+Price: 100
+Quantity: 2
+Discount: 10%
